@@ -1,0 +1,20 @@
+body{
+  background-color: #f0f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #007acc;
+}
+
+.para{
+  color: green;
+}
+
+#main-heading{
+  text-align: center;
+}
+
+input[type="number"]{
+  border: 2px solid gray;
+}
